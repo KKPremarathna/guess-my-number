@@ -4,6 +4,14 @@ A fully responsive React Native mobile application where you choose a number, an
 
 Built with **React Native** and **Expo**, this project demonstrates modern React Native hooks, custom UI components, and dynamic layout adjustments for both Portrait and Landscape orientations.
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="./assets/images/screenshots/Screen01.png" width="30%" />
+  <img src="./assets/images/screenshots/Screen02.png" width="30%" />
+  <img src="./assets/images/screenshots/Screen03.png" width="30%" />
+</p>
+
 ## ✨ Features
 * **Interactive Gameplay:** Set a number and give the phone "Higher" or "Lower" hints until it guesses correctly.
 * **Fully Responsive Design:** The UI automatically completely reorganizes itself to provide the best user experience whether the phone is held vertically or horizontally.
@@ -37,10 +45,4 @@ Built with **React Native** and **Expo**, this project demonstrates modern React
 
 5. **Scan the QR code with the Expo Go app on your physical device, or press a to run on an Android emulator / i for an iOS simulator.**
 
-## 📸 Screenshots
 
-<p align="center">
-  <img src="./assets/images/screenshots/Screen01.png" width="30%" />
-  <img src="./assets/images/screenshots/Screen02.png" width="30%" />
-  <img src="./assets/images/screenshots/Screen03.png" width="30%" />
-</p>
