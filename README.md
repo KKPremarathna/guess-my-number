@@ -29,7 +29,7 @@ Built with **React Native** and **Expo**, this project demonstrates modern React
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/guess-my-number.git](https://github.com/YOUR-USERNAME/guess-my-number.git)
+   git clone [https://github.com/KKPremarathna/guess-my-number.git](https://github.com/KKPremarathna/guess-my-number.git)
 
 2. **Navigate to the directory**
    ```bash
